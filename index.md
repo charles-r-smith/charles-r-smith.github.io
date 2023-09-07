@@ -7,3 +7,4 @@ I am a second-year PhD candidate in the joint program in Economics and Finance a
 
 <!--- [About](about.md)
 [CV](public_cv.pdf)
+-->
