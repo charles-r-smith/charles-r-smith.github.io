@@ -2,4 +2,4 @@
 
 I am a second-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison and the Wisconsin School of Business. My research interests are Inundustrial Organization and Finance.
 
-![Personal Photo](/CharlesRSmith44.github.io/IMG_9687.JPG)
+![Personal Photo](/IMG_9687.JPG)
