@@ -5,9 +5,5 @@ title: Charlie Smith
 sidebar:
   - name: CV
     link: /public_cv.pdf
-  - name: About
-    link: /about.md
-  - name: Research
-    link: /research.md
   - name: GitHub
     link: https://github.com/CharlesRSmith44
