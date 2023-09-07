@@ -5,5 +5,5 @@ I am a second-year PhD candidate in the joint program in Economics and Finance a
 ![Personal Photo](/IMG_9687_edit.jpg)
 
 
-[About](about.md)
+<!--- [About](about.md)
 [CV](public_cv.pdf)
