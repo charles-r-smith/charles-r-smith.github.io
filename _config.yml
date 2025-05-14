@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
-title: Charlie Smith
+title: Charles Smith
+
+sidebar:
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/charles-smith-econ/"
+    icon: "🔗"  # or use an HTML icon or emoji like "🔗" or "💼"
