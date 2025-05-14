@@ -7,7 +7,7 @@ title: Home
 <div style="text-align: right; margin-bottom: 20px;">
   <a href="/" style="margin-right: 15px;">Home</a>
   <a href="/research.html" style="margin-right: 15px;">Research</a>
-  <a href="/public_cv.pdf" target="_blank">CV</a>
+  <a href="{{ '/assets/public_cv.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
 </div>
 
 Welcome! I am a third-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison. My research interests are in Industrial Organization, Banking and Financial Intermediation, and Household Finance.
