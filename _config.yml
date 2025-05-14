@@ -1,9 +1,2 @@
 theme: jekyll-theme-minimal
 title: Charlie Smith
-
-
-sidebar:
-  - name: CV
-    link: /public_cv.pdf
-  - name: GitHub
-    link: https://github.com/CharlesRSmith44
