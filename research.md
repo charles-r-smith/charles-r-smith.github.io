@@ -13,4 +13,3 @@ permalink: /research.html
 
 # Research
 
-My research interests include...
