@@ -10,9 +10,7 @@ title: Home
   <a href="/public_cv.pdf" target="_blank">CV</a>
 </div>
 
-# Welcome
-
-I am a fourth-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison. My research interests are in Industrial Organization, Banking and Financial Intermediation, and Household Finance.
+Welcome! I am a third-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison. My research interests are in Industrial Organization, Banking and Financial Intermediation, and Household Finance.
 
 ![Personal Photo](/IMG_9687_edit.jpg)
 
