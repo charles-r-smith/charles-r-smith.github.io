@@ -2,6 +2,6 @@ I am a second-year PhD candidate in the joint program in Economics and Finance a
 
 Email crsmith35@wisc.edu
 
-GitHub https://github.com/CharlesRSmith44
+GitHub https://github.com/charles-smith-econ
 
 LinkedIn: https://www.linkedin.com/in/charles-smith-econ/
