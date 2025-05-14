@@ -1,9 +1,14 @@
-/* Shrink sidebar width */
+/* Shrink the sidebar */
 .sidebar {
-  width: 180px;  /* default is ~260px */
+  width: 180px; /* original is ~260px */
 }
 
-/* Shift main content to the left accordingly */
-.wrapper {
-  margin-left: 200px;  /* should match .sidebar width + padding */
+/* Adjust the content section to line up correctly */
+.wrapper > section {
+  padding-left: 200px; /* should be slightly more than .sidebar width */
+}
+
+/* Optional: make sidebar text slightly smaller */
+.sidebar header h1 {
+  font-size: 1.2em;
 }
