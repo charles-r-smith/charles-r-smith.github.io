@@ -12,6 +12,6 @@
 
 <p>
   <strong>Email:</strong> <a href="mailto:crsmith35@wisc.edu">crsmith35@wisc.edu</a><br>
-  <strong>GitHub:</strong> <a href="https://github.com/charles-smith-econ" target="_blank" rel="noopener">github.com/charles-smith-econ</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/charles-r-smith" target="_blank" rel="noopener">github.com/charles-r-smith</a><br>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/charles-smith-econ/" target="_blank" rel="noopener">linkedin.com/in/charles-smith-econ</a>
 </p>
