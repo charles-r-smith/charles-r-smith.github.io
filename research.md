@@ -12,5 +12,3 @@ permalink: /research.html
   <a href="/cv.html" style="margin-right: 15px;">CV</a>
 </div>
 
-# Research
-
