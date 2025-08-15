@@ -17,7 +17,13 @@ permalink: /research.html
 <h2>Working Papers</h2>
 
 <div style="margin-bottom: 30px;">
-  <h3><a href="/assets/papers/example-paper.pdf" target="_blank">A Quantitative Model of Bank Mergers</a></h3>
-  <p><strong>Authors:</strong> With Dean Corbae and Pablo D'Erasmo</p>
-  <p><strong>Abstract:</strong> We develop a simple model of the bank merger process to study the rise in bank concentration following the deregulation of bank branching in the Riegle-Neal Act of 1994. Motivated by the data where currently 10 (dominant) banks have over 55 percent of the U.S. deposit market share while the remaining over 4000 (fringe) banks cover the rest, we apply a dominant-fringe framework with a merger stage to model the rise in concentration following the change in regulation making interstate branching possible. We study the effect of the merger wave on competition, efficiency, and stability of the banking industry.</p>
+  <p style="margin: 0;">
+    <a href="/assets/papers/example-paper.pdf" target="_blank" style="font-weight: bold; text-decoration: none;">
+      A Quantitative Model of Bank Mergers
+    </a>
+    with Dean Corbae and Pablo D'Erasmo
+  </p>
+  <p style="margin-top: 5px;">
+    <strong>Abstract:</strong> We develop a simple model of the bank merger process to study the rise in bank concentration following the deregulation of bank branching in the Riegle-Neal Act of 1994. Motivated by the data where currently 10 (dominant) banks have over 55 percent of the U.S. deposit market share while the remaining over 4000 (fringe) banks cover the rest, we apply a dominant-fringe framework with a merger stage to model the rise in concentration following the change in regulation making interstate branching possible. We study the effect of the merger wave on competition, efficiency, and stability of the banking industry.
+  </p>
 </div>
