@@ -18,7 +18,7 @@ permalink: /research.html
 
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
-    <a href="/assets/AQuantitativeModelofBankMergers.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em">
+    <a href="/assets/AQuantitativeModelofBankMergers.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em; color: #1a0dab;">
       A Quantitative Model of Bank Mergers
     </a>
     with Dean Corbae and Pablo D'Erasmo
