@@ -14,11 +14,12 @@ permalink: /research.html
 
 <!-- Research Content -->
 <h1>Research</h1>
-<h2>Working Papers</h2>
+
+<h2 style="font-size: 1.2em; margin-top: 30px;">Working Papers</h2>
 
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
-    <a href="/assets/AQuantitativeModelofBankMergers.pdf" target="_blank" style="font-weight: bold; text-decoration: none;">
+    <a href="/assets/AQuantitativeModelofBankMergers.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em">
       A Quantitative Model of Bank Mergers
     </a>
     with Dean Corbae and Pablo D'Erasmo
