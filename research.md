@@ -13,9 +13,8 @@ permalink: /research.html
 </div>
 
 <!-- Research Content -->
-<h1>Research</h1>
 
-<h2 style="font-size: 1.2em; margin-top: 30px;">Working Papers</h2>
+<h1 style="font-size: 1.2em; margin-top: 30px;">Working Papers</h1>
 
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
