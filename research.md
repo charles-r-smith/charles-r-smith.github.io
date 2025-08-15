@@ -14,14 +14,10 @@ permalink: /research.html
 
 <!-- Research Content -->
 <h1>Research</h1>
+<h2>Working Papers</h2>
 
-<div style="margin-bottom: 40px;">
-  <h2>Example Research Paper Title</h2>
-  <p><strong>Authors:</strong> Jane Doe, John Smith, and Alex Lee</p>
-  <p><strong>Abstract:</strong> 
-    This study investigates the relationship between renewable energy adoption and local economic growth in rural regions. 
-    Using a panel dataset from 2000 to 2020 across 50 countries, we employ instrumental variable techniques to address endogeneity 
-    and find that renewable energy projects have a significant positive effect on employment and income in the host regions. 
-    Our results suggest that targeted policy interventions can amplify these benefits while minimizing environmental trade-offs.
-  </p>
+<div style="margin-bottom: 30px;">
+  <h3><a href="/assets/papers/example-paper.pdf" target="_blank">An Example Study on Renewable Energy and Local Economies</a></h3>
+  <p><strong>Authors:</strong> Jane Doe, John Smith, Alex Lee</p>
+  <p><strong>Abstract:</strong> Examining rural economic growth, this study uses data from 2000–2020 across 50 countries. We employ instrumental variable methods to explore the effect of renewable energy adoption on local employment and income. Results show a positive and robust relationship. Policy-focused simulations suggest that targeted renewable infrastructure investment can maximize economic uplift while mitigating environmental trade-offs.</p>
 </div>
