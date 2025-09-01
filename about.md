@@ -7,7 +7,7 @@
 </div>
 
 <p>
-  I am a third-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison and a National Science Foundation Graduate Research Fellow. I graduated from Amherst College in 2019 <i>magna cum laude</i> with a B.A. in Economics and Mathematics. Before moving to Madison, I worked as a research analyst in the Capital Markets function at the Federal Reserve Bank of New York.
+  I am a fourth-year PhD candidate in the joint program in Economics and Finance at the University of Wisconsin-Madison and a National Science Foundation Graduate Research Fellow. I graduated from Amherst College in 2019 <i>magna cum laude</i> with a B.A. in Economics and Mathematics. Before moving to Madison, I worked as a research analyst in the Capital Markets function at the Federal Reserve Bank of New York.
 </p>
 
 <p>
