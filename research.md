@@ -15,13 +15,16 @@ permalink: /research.html
 <!-- Research Content -->
 
 <h1 style="font-size: 1.2em; margin-top: 30px;">Working Papers</h1>
-
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
     <a href="/assets/AQuantitativeModelofBankMergers.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em; color: #1a0dab;">
       A Quantitative Model of Bank Mergers
     </a>
     with Dean Corbae and Pablo D'Erasmo
+    &nbsp;|&nbsp;
+    <a href="/assets/MidwestMacroPresentation11132025.pdf" target="_blank" style="text-decoration: none; font-size: 0.9em; color: #1a0dab;">
+      Slides
+    </a>
   </p>
   <p style="margin-top: 5px;">
     <strong>Abstract:</strong> We develop a simple model of the bank merger process to study the rise in bank concentration following the deregulation of bank branching in the Riegle-Neal Act of 1994. Motivated by the data where currently 10 (dominant) banks have over 55 percent of the U.S. deposit market share while the remaining over 4000 (fringe) banks cover the rest, we apply a dominant-fringe framework with a merger stage to model the rise in concentration following the change in regulation making interstate branching possible. We study the effect of the merger wave on competition, efficiency, and stability of the banking industry.
