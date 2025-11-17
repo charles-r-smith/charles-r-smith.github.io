@@ -16,14 +16,15 @@ title: Home
 
 <div style="margin-bottom: 30px;">
 
-  <p style="margin-bottom: 10px;">
-    <strong>University of Wisconsin–Madison — Madison, WI</strong><br>
-    Teaching Assistant, MSFE 721 – Financial Microeconomics<br>
-    <span style="color: #555;">Fall 2023</span>
-  </p>
+<p style="margin-bottom: 10px;">
+  <strong>University of Wisconsin–Madison</strong><br>
+  Teaching Assistant for MSFE 721 – Financial Microeconomics<br>
+  <span style="color: #555;">Fall 2023</span><br>
+  <em style="color: #777;">Juli Plant Grainger Teaching Excellence Scholarship</em>
+</p>
 
   <p style="margin-bottom: 10px;">
-    <strong>University of Wisconsin–Madison — Madison, WI</strong><br>
+    <strong>University of Wisconsin–Madison</strong><br>
     Tutor for PhD Micro 711 and Macro 712<br>
     <span style="color: #555;">Fall 2023</span>
   </p>
