@@ -29,3 +29,15 @@ title: Home
   </p>
 
 </div>
+
+
+<h1 style="font-size: 1.2em; margin-top: 30px;">Research Mentorship</h1>
+
+<div style="margin-bottom: 30px;">
+
+  <p style="margin-bottom: 10px;">
+    <strong>Undergraduate Research Scholar Mentor</strong>
+    <span style="color: #555;">Fall 2025</span>
+  </p>
+
+</div>
