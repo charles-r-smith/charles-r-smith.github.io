@@ -20,7 +20,7 @@ title: Home
   <strong>University of Wisconsin–Madison</strong><br>
   Teaching Assistant for MSFE 721 – Financial Microeconomics<br>
   <span style="color: #555;">Fall 2023</span><br>
-  <em style="color: #777;">Juli Plant Grainger Teaching Excellence Scholarship</em>
+  <em style="color: #777;">Juli Plant Grainger Teaching Excellence Award</em>
 </p>
 
   <p style="margin-bottom: 10px;">
