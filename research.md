@@ -35,7 +35,7 @@ permalink: /research.html
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
     <a href="/assets/MinnieCharlieCreditLimitsPaper11182025.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em; color: #1a0dab;">
-      Adverse Selection and Learning Incentives: Evidence from Canada’s Consent for Credit Limit Increase Regulations
+      Adverse Selection and Learning in Consumer Credit Markets
     </a>
     with Minnie Cui
   </p>
