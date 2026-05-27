@@ -34,7 +34,7 @@ permalink: /research.html
 
 <div style="margin-bottom: 30px;">
   <p style="margin: 0;">
-    <a href="/assets/AdverseSelectionandLearninginConsumerCredit.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em; color: #1a0dab;">
+    <a href="/assets/AdverseSelectionLearning05272026.pdf" target="_blank" style="font-weight: bold; text-decoration: none; font-size: 0.95em; color: #1a0dab;">
       Adverse Selection and Learning in Consumer Credit Markets
     </a>
     with Minnie Cui
