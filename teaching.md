@@ -38,7 +38,7 @@ title: Home
 
   <p style="margin-bottom: 10px;">
     <strong>Undergraduate Research Scholar Mentor</strong><br>
-    <span style="color: #555;">Fall 2025</span>
+    <span style="color: #555;">Fall 2025 and Spring 2026</span>
   </p>
 
 </div>
