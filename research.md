@@ -40,8 +40,7 @@ permalink: /research.html
     with Minnie Cui
   </p>
   <p style="margin-top: 5px;">
-    <strong>Abstract:</strong> This paper highlights a trade-off in credit markets between regulatory safeguards for informed consent and the informational frictions they can amplify. In our empirical setting, we find that requiring lenders to garner explicit consent prior to raising clients’ credit limits induces adverse selection. We find disproportionately higher take-up
-among riskier borrowers, as measured by increased utilization, delinquency, and chargeoffs, which worsens the risk profile of accounts that receive a credit limit increase. In response to the policy, we find that lenders decreased the size of credit limit increases, yet simultaneously gave more frequent limit increases. We develop a model of lender credit limit provision to study the role of adverse selection and learning. We show that learning from acceptance decisions can rationalize lenders’ increased frequency of credit limit increases, while adverse selection can rationalize the decline in the size of
-credit limit increases.
+    <strong>Abstract:</strong> This paper studies the trade-off between consent-based regulatory safeguards and the informational frictions they can amplify in credit markets. We find that requiring lenders to obtain explicit consent before raising borrower credit limits induces adverse selection. Borrowers who accept are ex post riskier than those whose increases are
+applied without consent, with higher past-due, delinquent, and charged-off balances. Compliant lenders reduced the size of increases but increased their frequency, which is inconsistent with static models of adverse selection. We use a simple model of credit provision to demonstrate that adverse selection and lender learning are essential to rationalize both empirical patterns.
   </p>
 </div>
